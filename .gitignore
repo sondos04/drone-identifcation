@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+
+data/raw/
+data/processed/
+data/spectrograms/
+
+checkpoints/
+*.pth
+*.pt
+
+results/
+.vscode/
